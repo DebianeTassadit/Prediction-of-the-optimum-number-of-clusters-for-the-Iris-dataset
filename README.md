@@ -16,6 +16,6 @@ This repository contains the tasks that I completed while working as an intern f
    
  ##  [Task-2](https://github.com/alim9hamed/the-sparks-foundation-tasks/blob/0fd71b73e75eeb57f10dcd4331b4f484c812c9ba/task2_clustering.ipynb): Prediction using Unsupervised ML (Level - Beginner)
 
-1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-2. Use R or Python or perform this task.
+1. From the given ‘Iris’ dataset, I predicted the optimum number of clusters using the KElbowVisualize then I represented it visually.
+2. I used Python to perform this task.
 3. Data can be found at [here](https://bit.ly/3kXTdox)
