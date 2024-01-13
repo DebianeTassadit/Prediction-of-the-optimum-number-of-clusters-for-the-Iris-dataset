@@ -8,11 +8,11 @@ This repository contains the tasks that I completed while working as an intern f
 
 ## [Task-1](https://github.com/alim9hamed/the-sparks-foundation-tasks/blob/95d8b89cbdf03b0e024f1155e050e4ff0f560f96/task1_linear_regression.ipynb) : Prediction using Supervised ML (Level - Beginner)
 
-1. Predict the percentage of marks of an student based on the number of study hours.
+1. I predicted the percentage of marks of a student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
 3. Data can be found at [here](http://bit.ly/w-data)
-4. You can use R, Python, SAS Enterprise Miner or any other tool.
-5. What will be predicted score if a student studies for 9.25 hrs/ day?
+4. I used Python to perform this task.
+5. What will be the predicted score for a student that studies for 9.25 hrs/ day?
    
  ##  [Task-2](https://github.com/alim9hamed/the-sparks-foundation-tasks/blob/0fd71b73e75eeb57f10dcd4331b4f484c812c9ba/task2_clustering.ipynb): Prediction using Unsupervised ML (Level - Beginner)
 
